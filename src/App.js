@@ -19,7 +19,56 @@ function App() {
       <Main>
         <Navbar />
         <Wrapper>
-          video carts
+          <h1>video charts</h1>
+          <h1>video charts</h1>
+          <h1>video charts</h1>
+          <h1>video charts</h1>
+          <h1>video charts</h1>
+          <h1>video charts</h1>
+          <h1>video charts</h1>
+          <h1>video charts</h1>
+          <h1>video charts</h1>
+          <h1>video charts</h1>
+          <h1>video charts</h1>
+          <h1>video charts</h1>
+          <h1>video charts</h1>
+          <h1>video charts</h1>
+          <h1>video charts</h1>
+          <h1>video charts</h1>
+          <h1>video charts</h1>
+          <h1>video charts</h1>
+          <h1>video charts</h1>
+          <h1>video charts</h1>
+          <h1>video charts</h1>
+          <h1>video charts</h1>
+          <h1>video charts</h1>
+          <h1>video charts</h1>
+          <h1>video charts</h1>
+          <h1>video charts</h1>
+          <h1>video charts</h1>
+          <h1>video charts</h1>
+          <h1>video charts</h1>
+          <h1>video charts</h1>
+          <h1>video charts</h1>
+          <h1>video charts</h1>
+          <h1>video charts</h1>
+          <h1>video charts</h1>
+          <h1>video charts</h1>
+          <h1>video charts</h1>
+          <h1>video charts</h1>
+          <h1>video charts</h1>
+          <h1>video charts</h1>
+          <h1>video charts</h1>
+          <h1>video charts</h1>
+          <h1>video charts</h1>
+          <h1>video charts</h1>
+          <h1>video charts</h1>
+          <h1>video charts</h1>
+          <h1>video charts</h1>
+          <h1>video charts</h1>
+          <h1>video charts</h1>
+          <h1>video charts</h1>
+          <h1>video charts</h1>
         </Wrapper>
       </Main>
     </Container>
