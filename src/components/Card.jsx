@@ -1,5 +1,6 @@
 import React from 'react';
 import styled from 'styled-components';
+import { Link } from "react-router-dom";
 
 const Container = styled.div`
     width: 360px;
@@ -47,17 +48,19 @@ const Info = styled.div`
 
 const Card = () => {
   return (
-    <Container>
-        <Image src="https://i.ytimg.com/vi/4mOkFXyxfsU/hqdefault.jpg" />
-        <Details>
-            <ChannelImage src="https://yt3.ggpht.com/wg1TITEoPfxvBGfzuqWyt3bqm_qu35ZhMswUv3feetU3xNX_6wsAXZF40OlPIgY4TmqbqCmAZ1U=s88-c-k-c0x00ffffff-no-rj" />
-            <Texts>
-                <Title>Build and Deploy a Modern Full Stack ECommerce React Application with Stripe</Title>
-                <ChannelName>JavaScript Mastery</ChannelName>
-                <Info>240,684 viewsApr 22, 2022</Info>
-            </Texts>
-        </Details>
-    </Container>
+    <Link to="/video/test" style={{ textDecoration: "none" }}>
+        <Container>
+            <Image src="https://i.ytimg.com/vi/4mOkFXyxfsU/hqdefault.jpg" />
+            <Details>
+                <ChannelImage src="https://yt3.ggpht.com/wg1TITEoPfxvBGfzuqWyt3bqm_qu35ZhMswUv3feetU3xNX_6wsAXZF40OlPIgY4TmqbqCmAZ1U=s88-c-k-c0x00ffffff-no-rj" />
+                <Texts>
+                    <Title>Build and Deploy a Modern Full Stack ECommerce React Application with Stripe</Title>
+                    <ChannelName>JavaScript Mastery</ChannelName>
+                    <Info>240,684 viewsApr 22, 2022</Info>
+                </Texts>
+            </Details>
+        </Container>
+    </Link>
   );
 };
 
