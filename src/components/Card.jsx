@@ -56,7 +56,7 @@ const Card = () => {
                 <Texts>
                     <Title>Build and Deploy a Modern Full Stack ECommerce React Application with Stripe</Title>
                     <ChannelName>JavaScript Mastery</ChannelName>
-                    <Info>240,684 viewsApr 22, 2022</Info>
+                    <Info>242,000 views • Apr 22, 2022</Info>
                 </Texts>
             </Details>
         </Container>
